@@ -1,1 +1,0 @@
-web: vendor/hhvm/hhvm -c vendor/hhvm/config.hdf
