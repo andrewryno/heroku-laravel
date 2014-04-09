@@ -1,3 +1,0 @@
-Server {
-  DefaultDocument = public/index.php
-}
