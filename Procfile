@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-hhvm-nginx
+web: vendor/hhvm/hhvm -c vendor/hhvm/config.hdf
